@@ -1,5 +1,4 @@
 #include <cstdio>
-<<<<<<< HEAD
 #include <cstdlib>
 #include <ctime>
 
@@ -57,7 +56,6 @@ int main(){
             }
         }
         printf("%s\n", ok ? "Yes" : "No");
->>>>>>> b1996e31e0d09e9ce0067cd39ce94e6d2d697370
     }
     return 0;
 }
